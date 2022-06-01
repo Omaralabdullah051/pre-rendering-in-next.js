@@ -22,8 +22,8 @@ const Dashboard = () => {
       <h2>Dashboard</h2>
       <h2>Posts ={dashboardData.posts}</h2>
       <h2>Likes ={dashboardData.likes}</h2>
-      <h2>Posts ={dashboardData.posts}</h2>
-      <h2>Posts ={dashboardData.posts}</h2>
+      <h2>Followers ={dashboardData.followers}</h2>
+      <h2>Following ={dashboardData.following}</h2>
     </div>
   );
 };
